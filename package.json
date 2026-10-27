@@ -1,0 +1,9 @@
+{
+  "name": "eight-ball-club",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A canvas billiards game with shared deterministic physics and authoritative private rooms.",
+  "scripts": { "start": "node server.js", "test": "node --test test/*.test.js" },
+  "engines": { "node": ">=22" }
+}
